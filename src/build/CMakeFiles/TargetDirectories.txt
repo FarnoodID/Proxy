@@ -1,0 +1,3 @@
+/home/farnood/Desktop/final-advanced/src/build/CMakeFiles/rebuild_cache.dir
+/home/farnood/Desktop/final-advanced/src/build/CMakeFiles/main.dir
+/home/farnood/Desktop/final-advanced/src/build/CMakeFiles/edit_cache.dir
